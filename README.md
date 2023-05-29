@@ -1,7 +1,6 @@
 **UNIVERSIDADE LUSÓFONA**
 
-# Lab 10: Modelação com models.py, forms.py e sua utilização em views.py: Portfolio III ⛅
-
+# Lab 12: Portfolio parte III: Modelação com models.py, forms.py e sua utilização em views.py e templates HTML:  ⛅
 
 # Models e Views do portfolio 🛢
 * Com base na estrutura de páginas e seus conteúdos, identificados no [Lab 10](https://github.com/ULHT-PW/pw-lab10/blob/main/README.md#4-estrutura-), construa:
