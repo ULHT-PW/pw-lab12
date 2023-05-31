@@ -1,6 +1,6 @@
 **UNIVERSIDADE LUSÓFONA**
 
-# Lab 12: Portfolio parte III: Implementação da aplicação MVT (Models, Views, Templates HTML) ⛅
+# Lab 12: Portfolio MVT (Models, Views, Templates HTML) ⛅
 
 ### 1. Models e Views do portfolio 🛢
 * Com base na estrutura de páginas e seus conteúdos, identificados no [Lab 10](https://github.com/ULHT-PW/pw-lab10/blob/main/README.md#4-estrutura-), construa:
