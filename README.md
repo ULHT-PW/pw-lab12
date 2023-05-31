@@ -4,9 +4,9 @@
 
 ### 1. Models e Views do portfolio 🛢
 * Com base na estrutura de páginas e seus conteúdos, identificados no [Lab 10](https://github.com/ULHT-PW/pw-lab10/blob/main/README.md#4-estrutura-), construa:
-    * em models.py a modelação dos elementos
-    * em views.py as funções que interajam com a base de dados, renderizam conteúdos nos HTML e retornem ficheiros HTML. Garanta que existem relações entre tabelas.
+    * em models.py a modelação de todas as classes necessárias. Garanta que existem relações entre tabelas.
+    * em views.py as funções que permitem interagir com a base de dados, renderizando conteúdos HTML. A aplicação deverá permitir criar, editar e apagar elementos/conteúdos de cada tabela.
 
 ### 2. Autenticação
-* implenente a autenticação
-* Só utilizador autenticado poderá editar as páginas cadeiras, projetos, etc.
+* implemente a autenticação
+* Só um utilizador autenticado poderá editar as páginas com conteúdos de cadeiras, projetos, cursos, etc.
